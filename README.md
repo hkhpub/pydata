@@ -1,4 +1,4 @@
-# pydata
+# python data science communities
 
 * pydata: a Google Group list for questions related to Python for data analysis and pandas
 * pystatsmodels: for statsmodels or pandas-related questions
